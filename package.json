@@ -43,7 +43,7 @@
     "eslint": "^3.19.0",
     "eslint-config-n7s": "^0.1.2",
     "jscs": "^3.0.7",
-    "mocha": "^3.3.0",
+    "mocha": "^3.4.0",
     "nyc": "^10.3.2"
   },
   "eslintConfig": {
